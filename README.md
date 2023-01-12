@@ -7,6 +7,7 @@ How the game works:
 -If you catch a Skittle, one life is added.
 -You increase the score by stacking 3 plates of the same colour on the same hand.
 -There is also a Timer so the game ends in 1 min.
+###
 Design Patterns Used:
 -Stratetgy 
 -Iterator
@@ -14,7 +15,9 @@ Design Patterns Used:
 -Factory
 -Singleton
 -Builder
+###
 Link for CLass Diagram (UML): https://app.genmymodel.com/api/projects/_-ywz8In-Ee29ie0vpi-P5A/diagrams/_-yxbAon-Ee29ie0vpi-P5A/svg
+###
 Home Page :
 ![image](https://user-images.githubusercontent.com/97133077/212199891-31b0475a-0dee-4a19-94d2-30c96fb42887.png)
 Game:
