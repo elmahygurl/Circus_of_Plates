@@ -1,5 +1,6 @@
 # Circus_of_Plates
 A Java Circus game using OOP concepts and design patterns.
+###
 How the game works:
 -The game has three levels(each differ in the speed of the falling objects). 
 -When you start the game, you are given 3 lives. 
@@ -19,6 +20,7 @@ Design Patterns Used:
 Link for CLass Diagram (UML): https://app.genmymodel.com/api/projects/_-ywz8In-Ee29ie0vpi-P5A/diagrams/_-yxbAon-Ee29ie0vpi-P5A/svg
 ###
 Home Page :
+###
 ![image](https://user-images.githubusercontent.com/97133077/212199891-31b0475a-0dee-4a19-94d2-30c96fb42887.png)
 ###
 Game:
