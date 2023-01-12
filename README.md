@@ -2,15 +2,21 @@
 A Java Circus game using OOP concepts and design patterns.
 ###
 How the game works:
+###
 -The game has three levels(each differ in the speed of the falling objects). 
+###
 -When you start the game, you are given 3 lives. 
+###
 -If you catch a Bomb , one life is lost.
+###
 -If you catch a Skittle, one life is added.
+###
 -You increase the score by stacking 3 plates of the same colour on the same hand.
+###
 -There is also a Timer so the game ends in 1 min.
 ###
 Design Patterns Used:
--Stratetgy 
+Stratetgy 
 -Iterator
 -State
 -Factory
