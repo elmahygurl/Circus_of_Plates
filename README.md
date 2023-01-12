@@ -23,6 +23,8 @@ Stratetgy
 -Singleton
 -Builder
 ###
+Note: The bomb sound was uploaded successfully but the Circus Theme Sound was too big to be uploaded. Feel free to contact me for the sound I used or use your own .WAV sound file but change the path in the code for it to work.
+###
 Link for CLass Diagram (UML): https://app.genmymodel.com/api/projects/_-ywz8In-Ee29ie0vpi-P5A/diagrams/_-yxbAon-Ee29ie0vpi-P5A/svg
 ###
 Home Page :
