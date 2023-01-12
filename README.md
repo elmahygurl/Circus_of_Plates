@@ -5,6 +5,8 @@ How the game works:
 ###
 -The game has three levels(each differ in the speed of the falling objects). 
 ###
+-You use the left and right arrows to move the clown to catch falling objects using the clown's hand.
+###
 -When you start the game, you are given 3 lives. 
 ###
 -If you catch a Bomb , one life is lost.
