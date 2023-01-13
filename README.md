@@ -15,6 +15,8 @@ How the game works:
 ###
 -You increase the score by stacking 3 plates of the same colour on the same hand.
 ###
+-You lose if you stack more than 10 plates on the same hand.
+###
 -There is also a Timer so the game ends in 1 min.
 ###
 Design Patterns Used:
