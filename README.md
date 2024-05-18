@@ -37,3 +37,8 @@ Home Page :
 ###
 Game:
 ![image](https://user-images.githubusercontent.com/97133077/212200126-bb0afced-8606-4f2a-bf3d-b2a28d1e4650.png)
+
+## Authors 
+- [Youssef Elkady](https://github.com/Youssef-Elkady)
+- [Farida Sherif](https://github.com/faridaas)
+- [Salma ElMahy](https://github.com/elmahygurl)
